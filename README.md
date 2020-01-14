@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Jamie's todoist-tut
+
+Todoist Tutorial from freeCodeCamp
+
+[Intermediate React Tutorial - Todoist Clone (with Firebase, Custom Hooks, SCSS, React Testing)](https://www.youtube.com/watch?v=hT3j87FMR6M)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
